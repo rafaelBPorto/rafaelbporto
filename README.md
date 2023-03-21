@@ -1,5 +1,8 @@
-# Sobre 👋
+## Redes sociais
+
 <a href= https://www.linkedin.com/in/rafaelbporto> <img src=https://img.shields.io/badge/linkedin-0077B5.svg /> https://www.linkedin.com/in/rafaelbporto/</a>
+
+# Porque eu escolhi programação :boom: ou será que foi ela que me escolheu? 
 
 Ao longo da minha vida sempre tive contatos esporádicos com programação
 - A primeira vez foi por volta dos 12 anos brincando com script de shell, fiz um game de uma história de rpg;
