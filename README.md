@@ -1,6 +1,6 @@
 ## Redes sociais
 
-<a href= https://www.linkedin.com/in/rafaelbporto> <img src=https://img.shields.io/badge/linkedin-0077B5.svg />/</a>
+<a href= https://www.linkedin.com/in/rafaelbporto> <img src=https://img.shields.io/badge/linkedin-0077B5.svg /></a>
 
 # Porque eu escolhi programação :boom: ou será que foi ela que me escolheu? 
 
