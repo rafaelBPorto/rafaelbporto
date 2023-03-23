@@ -1,6 +1,9 @@
-## Redes sociais
+## Redes sociais e Contatos
 
-<a href= https://www.linkedin.com/in/rafaelbporto> <img src=https://img.shields.io/badge/linkedin-0077B5.svg /></a>
+<p align="center">
+  <a href=https://www.linkedin.com/in/rafaelbporto/><img src="https://img.shields.io/badge/-Rafael%20Porto-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:rafaelbporto88@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 # Porque eu escolhi programação :boom: ou será que foi ela que me escolheu? 
 
@@ -20,29 +23,35 @@ Assim percebi que sinto muito mais satisfação ao :heart:desenvolver:heart: uma
 
 
 
-# Frond-end
-
+## Frond-end
+<div align="center">
 <span><img src=imgs/htlm.png width=30px> HTML |</img> </span> 
 <span><img src=/imgs/css.svg width=30px>CSS  |</img>  </span> 
 <span><img src=/imgs/icons8-javascript-96.svg width=30px>JavaScript  |</img></span> 
 <span><img src=imgs/react.svg width=30px/>React   |</img></span> 
- 
-# Back-end e APIs
+</div>
+
+## Back-end e APIs
+<div align="center">
 <span><img src=imgs/node.svg width=30px;/> Node | </span>
 <span><img src=imgs/icons8-typescript.svg width=30px;/>TypeScript  |</span> 
 <span><img src=imgs/jest.png width=30px;/>Jest  |</span> 
 <h3> Express |  { REST } </h3>
+</div>
 
-# Databases
+## Databases
+<div align="center">
 <span><img src=imgs/mongodb.svg width=30px;/> Mongo  |  </span> 
 <span><img src=imgs/sql.svg width=30px;/> SQL  |  </span> 
 <span><img src=/imgs/postgresql.svg width=30px;/>PostegreSQL  |  </span> 
 <span><img src=/imgs/redis.svg width=30px;/>Redis  |  </span> 
-
-# Dev-ops
-<span><img src=imgs/docker.svg width=30px;/> Docker  |  </span> 
-<span><img src=imgs/aws.svg width=30px;/> AWS  |  </span> 
-
+</div>
+  
+## Dev-ops
+<div align="center">
+  <span><img src=imgs/docker.svg width=30px;/> Docker  |  </span> 
+  <span><img src=imgs/aws.svg width=30px;/> AWS  |  </span> 
+</div>
 <!--
 **rafaelBPorto/rafaelbporto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
