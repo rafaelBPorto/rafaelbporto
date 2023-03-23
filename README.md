@@ -25,32 +25,32 @@ Assim percebi que sinto muito mais satisfação ao :heart:desenvolver:heart: uma
 
 ## Frond-end
 <div align="center">
-<span><img src=imgs/htlm.png width=30px> HTML |</img> </span> 
-<span><img src=/imgs/css.svg width=30px>CSS  |</img>  </span> 
-<span><img src=/imgs/icons8-javascript-96.svg width=30px>JavaScript  |</img></span> 
-<span><img src=imgs/react.svg width=30px/>React   |</img></span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
 ## Back-end e APIs
 <div align="center">
-<span><img src=imgs/node.svg width=30px;/> Node | </span>
-<span><img src=imgs/icons8-typescript.svg width=30px;/>TypeScript  |</span> 
-<span><img src=imgs/jest.png width=30px;/>Jest  |</span> 
-<h3> Express |  { REST } </h3>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST-API-orange" height=28px;/>
 </div>
 
 ## Databases
 <div align="center">
-<span><img src=imgs/mongodb.svg width=30px;/> Mongo  |  </span> 
-<span><img src=imgs/sql.svg width=30px;/> SQL  |  </span> 
-<span><img src=/imgs/postgresql.svg width=30px;/>PostegreSQL  |  </span> 
-<span><img src=/imgs/redis.svg width=30px;/>Redis  |  </span> 
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /> 
 </div>
   
 ## Dev-ops
 <div align="center">
-  <span><img src=imgs/docker.svg width=30px;/> Docker  |  </span> 
-  <span><img src=imgs/aws.svg width=30px;/> AWS  |  </span> 
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> 
+  <span ><img src=imgs/docker.svg width=30px;/>Docker</span> 
 </div>
 <!--
 **rafaelBPorto/rafaelbporto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
