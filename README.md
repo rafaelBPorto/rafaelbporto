@@ -1,3 +1,6 @@
+## Importante
+Utilizo mai o GitLab do que o Github, pois é a plataforma adotada pela empresa que presto meus principais serviços. Portanto, o github não tem tanta movimentção.
+
 ## Redes sociais e Contatos
 
 <p align="center">
